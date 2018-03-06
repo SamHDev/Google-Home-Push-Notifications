@@ -16,3 +16,10 @@ If you Wish to use this with IFTTT remember to port forward. Its default port is
 /push (GET) Pushes a Notoication. (Posible Args: device* , text* , slow , vol)
 
 *required
+
+# Dependances:
+
+Flask
+pychromecast
+gtts
+mutagen
