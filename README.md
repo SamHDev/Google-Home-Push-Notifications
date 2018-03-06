@@ -19,7 +19,7 @@ If you Wish to use this with IFTTT remember to port forward. Its default port is
 
 # Dependances:
 
-Flask
-pychromecast
-gtts
-mutagen
+Flask,
+pychromecast,
+gtts,
+mutagen,
