@@ -2,9 +2,11 @@
 Allows you to send push a notification to a google home using webhooks!
 
 
-The the server or Computers Public local IPV4 Adress or domain
+
+Do run put your server or Computers Public local IPV4 Adress or domain taht it will be running on.
 
 If you Wish to use this with IFTTT remember to port forward. Its default port is 8093
+
 
 
 Current Methods:
