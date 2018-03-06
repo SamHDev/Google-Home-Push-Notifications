@@ -10,6 +10,7 @@ If you Wish to use this with IFTTT remember to port forward. Its default port is
 Current Methods:
 
 /devices (GET) Returns the friendlay names of all devices found (No Args Required)
+
 /push (GET) Pushes a Notoication. (Posible Args: device* , text* , slow , vol)
 
 *required
